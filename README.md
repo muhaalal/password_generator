@@ -6,8 +6,6 @@ This Python program generates a strong password based on your preferences, such 
 - Generates a password based on your preferences  
 - Helps protect against data breaches and weak passwords
 
--Protects from data breaches and hackers.
-
 ## How to run
 1. Download the script or clone the repo
 2. Run using Python
